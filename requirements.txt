@@ -1,0 +1,6 @@
+streamlit
+streamlit-audiorecorder
+faster-whisper
+ollama
+gTTS
+pydub
